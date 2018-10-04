@@ -1,0 +1,19 @@
+
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend,figure,figcaption{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+img,fieldset{border:0; } 
+img{display:block;}
+a{text-decoration:none; color:#333;}
+h1,h2,h3,h4,h5,h6{font-weight:100;}
+body{ font-family:"微软雅黑";}
+input,a{outline:none;}
+html,body{font-size:12px;}
+
+
+.detail_box{width: 300px;min-height: 200px;margin: 0 auto;}
+.detail_box img{width: 260px;height: 260px;}
+.detail_box p{font-size: 15px;font-weight: bold;}
+.detail_box h4{font-size: 14px;color: red;font-weight: bold;margin: 10px;}
+.detail_box h5{font-size: 14px;width: 260px;padding: 10px;}
+.detail_box .addShop {cursor: pointer;background: #ff003a;width: 100px;height: 30px;line-height: 30px;text-align: center;color: white;display: inline-block;box-sizing: border-box;margin-left: 30px;}
+.detail_box .gouMai{cursor: pointer;color: #ffeded;width: 100px;height: 30px;line-height: 30px;text-align: center;color: #ff003a;box-sizing: border-box;border: 1px solid #ff003a;display: inline-block;margin-top: 2px;}
